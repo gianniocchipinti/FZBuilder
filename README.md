@@ -14,11 +14,10 @@ What can i do with this tool?
 - Flash Devboard ESP32 / ESP8266
 - Clone the main repositories (UberGuidoZ, IRDB...)
 - Control Marauder from your PC (coming soon..)
-- more (soon)
+- more... (soon)
 
 Changelog
 v1.0
 - Initial Release
 
 The source code will be published soon!!!
-
