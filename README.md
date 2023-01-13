@@ -1,4 +1,4 @@
-# FZBuilder
+# FZBuilder is here! :grinning:	
 ![image](https://user-images.githubusercontent.com/46269269/211429834-b58c4485-c7cc-4ab2-b74b-a1767cd3f8be.png)
 
  Build your CFW - Marauder Control and Flipper CLI 
