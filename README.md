@@ -19,5 +19,20 @@ What can i do with this tool?
 Changelog
 v1.0
 - Initial Release
+- Multilingual: Added English and Italian (thx @rui_kini for translations)
+- Animations: Removed button to create animation directly having png frames
+- Animations: Added animation creation from GIF files
+- Animations: Ability to import animations directly on the firmware you prefer
+- Animations: Added user editable parameters (butthurt min-max, level min-max, Weight)
+- UI: Added version label
+- Fix: The APP closing process didn't finish correctly
+- UI: Changed the name of the waiting form
+- UI: Added taskbar icon for splash (intro)
+- APP: Code cleaning and optimization
+- Fw: Removed Korai (momentary) and replaced with stock fw
+- UI: New form for choosing the animations to be imported into the fw
+- UI: Devboard section completed
+- Fix: If the animation is already in the fw folder it overwrites it
+
 
 The source code will be published soon!!!
