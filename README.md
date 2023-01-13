@@ -8,6 +8,9 @@ Requirements: .NET 4.7.2
 What can i do with this tool?
 - Build your fw in 1-Click
 - Customize Flipper Name
+- Generate new animations from GIF files
+- Import animations on your favorite firmware
+- Customize animation parameters
 - Unlock national frequencies
 - Extend range freq (*You can damage your flipper*)
 - Flipper CLI included
