@@ -34,7 +34,7 @@ Requirements: .NET 4.7.2
 ```
 
 # What's new
-v1.0 [BETA]
+v1.0.1 [BETA]
 ```
 - Initial Release
 - Multilanguage: Added English and Italian (thx @rui_kini for translations)
