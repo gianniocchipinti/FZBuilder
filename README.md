@@ -1,4 +1,4 @@
-# [BETA] FZBuilder is here! :grinning:	
+# FZBuilder is here! :grinning:	
 
 ![image](https://user-images.githubusercontent.com/46269269/211429834-b58c4485-c7cc-4ab2-b74b-a1767cd3f8be.png)
 
@@ -28,7 +28,7 @@ Requirements: .NET 4.7.2
 ```
 
 # What's new
-v1.0
+v1.0 [BETA]
 ```
 - Initial Release
 - Multilanguage: Added English and Italian (thx @rui_kini for translations)
