@@ -4,6 +4,8 @@
 
 # Hashtag #fzbuilder
 
+# The author of this software assumes no responsibility for both the use that will be made of the software, and for any damage caused to your Flipper.
+
 ```
 This software is intended for the Flipper Zero community.
 Every idea or possible implementation can be communicated to the email: fzbuilder@gianniocchipinti.net
@@ -51,6 +53,14 @@ v1.0 [BETA]
 # Bug Report
 ```
 fzbuilder@gianniocchipinti.net
+```
+
+# Credits
+```
+FlipperZeroItalia     @Shark17e
+FlipperZeroItalia     @contentossss
+FlipperZeroItalia     @maxx8899xx
+FlipperZeroItalia     @votan2
 ```
 
 # Screenshot
