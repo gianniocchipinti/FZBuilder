@@ -4,6 +4,11 @@
 
 # Hashtag #fzbuilder
 
+```
+This software is intended for the Flipper Zero community.
+Every idea or possible implementation can be communicated to the email: fzbuilder@gianniocchipinti.net
+```
+
 Requirements: .NET 4.7.2
 
 # What can i do with this tool?
@@ -50,5 +55,10 @@ fzbuilder@gianniocchipinti.net
 
 # Screenshot
 ![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/screen1.png?raw=true)
+
+# if you like this project :smile:
+<a href="https://www.paypal.com/donate/?hosted_button_id=W955PNAJZHG4A">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" width="200" height="80"/>
+</a>
 
 # Have fun :relaxed:	
