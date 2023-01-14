@@ -1,11 +1,11 @@
-# FZBuilder
+# FZBuilder is here! :grinning:	
 ![image](https://user-images.githubusercontent.com/46269269/211429834-b58c4485-c7cc-4ab2-b74b-a1767cd3f8be.png)
 
  Build your CFW - Marauder Control and Flipper CLI 
 
 Requirements: .NET 4.7.2
 
-What can i do with this tool?
+# What can i do with this tool?
 - Build your fw in 1-Click
 - Customize Flipper Name
 - Generate new animations from GIF files
@@ -19,7 +19,7 @@ What can i do with this tool?
 - Control Marauder from your PC (coming soon..)
 - more... (soon)
 
-Changelog
+# What's new
 v1.0
 - Initial Release
 - Multilingual: Added English and Italian (thx @rui_kini for translations)
@@ -38,4 +38,4 @@ v1.0
 - Fix: If the animation is already in the fw folder it overwrites it
 
 
-The source code will be published soon!!!
+# Screenshot
