@@ -6,6 +6,10 @@
 
 # The author of this software assumes no responsibility for both the use that will be made of the software, and for any damage caused to your Flipper.
 
+The new version of the software v1.1 will have automatic updates
+*** Stay tuned here for future update ***
+
+
 ```
 This software is intended for the Flipper Zero community.
 Every idea or possible implementation can be communicated to the email: fzbuilder@gianniocchipinti.net
