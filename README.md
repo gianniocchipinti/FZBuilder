@@ -59,6 +59,12 @@ v1.0 [BETA]
 fzbuilder@gianniocchipinti.net
 ```
 
+# Useful Links
+
+[Flipper Zero Course](https://www.youtube.com/watch?v=AX4nE_QGZpM&list=PLt3CqPfWscfYiUZ_GW23CSdBSpb5wZY_G]).
+
+
+
 # Credits
 ```
 FlipperZeroItalia     @Shark17e
