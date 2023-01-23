@@ -49,6 +49,7 @@ FlipperZeroItalia     @Shark17e
 FlipperZeroItalia     @contentossss
 FlipperZeroItalia     @maxx8899xx
 FlipperZeroItalia     @votan2
+Discord               @Ooggle
 ```
 
 # Screenshot
