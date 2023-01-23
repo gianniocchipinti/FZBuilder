@@ -53,9 +53,9 @@ FlipperZeroItalia     @votan2
 
 # Screenshot
 ![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/screen.png?raw=true)
-![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/scree2.png?raw=true)
-![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/scree3.png?raw=true)
-![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/scree4.png?raw=true)
+![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/screen2.png?raw=true)
+![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/screen3.png?raw=true)
+![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/screen4.png?raw=true)
 
 # if you like this project :smile:
 <a href="https://www.paypal.com/donate/?hosted_button_id=W955PNAJZHG4A">
