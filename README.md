@@ -52,7 +52,6 @@ FlipperZeroItalia     @votan2
 ```
 
 # Screenshot
-<center>
 ![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/screen.png?raw=true)
 </br>
 ![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/screen2.png?raw=true)
