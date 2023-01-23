@@ -52,7 +52,7 @@ FlipperZeroItalia     @votan2
 ```
 
 # Screenshot
-![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/screen1.png?raw=true)
+![image](https://github.com/gianniocchipinti/FZBuilder/blob/main/img/screen.png?raw=true)
 
 # if you like this project :smile:
 <a href="https://www.paypal.com/donate/?hosted_button_id=W955PNAJZHG4A">
