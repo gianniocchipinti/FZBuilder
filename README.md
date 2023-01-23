@@ -23,6 +23,8 @@ Requirements: .NET 4.7.2
 - Customize Flipper Name
 - Generate new animations from GIF files
 - Import animations on your favorite firmware
+- Preview animations
+- Exclude Fap into CFW
 - Customize animation parameters
 - Unlock national frequencies
 - Extend range freq (*You can damage your flipper*)
