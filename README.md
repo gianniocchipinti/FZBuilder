@@ -26,7 +26,7 @@ Requirements: .NET 4.7.2
 - Preview animations
 - Exclude Fap into CFW
 - Customize animation parameters
-- Unlock national frequencies
+- Unlock national frequencies (read disclaimer)
 - Extend range freq (*You can damage your flipper*)
 - Flipper CLI included
 - Flash Devboard ESP32 / ESP8266
